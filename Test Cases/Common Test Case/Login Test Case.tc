@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ini adalah login test case ke Swag Labs</description>
+   <name>Login Test Case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7929475-e160-4654-9915-0a29e2704e29</testCaseGuid>
+</TestCaseEntity>
